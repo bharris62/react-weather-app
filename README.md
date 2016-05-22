@@ -1,1 +1,2 @@
-# react-weather-app
+# hello-react
+First time experimenting with react
