@@ -5,8 +5,8 @@ var React = require('react');
 var About = (props) => {
   return(
     <div>
-      <h3>About</h3>
-      <p>This is my first attempt at a react app, and first attempt to be launched to heroku.</p>
+      <h3 className='text-center'>About</h3>
+      <p className='text-center'>This is my first attempt at a react app, and first attempt to be launched to heroku.</p>
     </div>
   );
 }
